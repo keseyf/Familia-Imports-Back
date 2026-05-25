@@ -1,0 +1,1 @@
+{"version":3,"file":"getProducts.js","sourceRoot":"","sources":["../../../src/routes/gets/getProducts.ts"],"names":[],"mappings":";;;;;AAEA,8BAGC;AALD,gEAAwC;AAEzB,KAAK,UAAU,WAAW;IACrC,MAAM,QAAQ,GAAG,MAAM,gBAAM,CAAC,OAAO,CAAC,QAAQ,EAAE,CAAC;IACjD,OAAO,EAAE,QAAQ,EAAE,MAAM,EAAE,GAAG,EAAE,CAAC;AACrC,CAAC"}

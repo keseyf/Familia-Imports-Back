@@ -1,0 +1,1 @@
+{"version":3,"file":"getOrders.js","sourceRoot":"","sources":["../../../src/routes/gets/getOrders.ts"],"names":[],"mappings":";;;;;AAEA,4BAOC;AATD,gEAAuC;AAEvC,SAAwB,SAAS;IAC7B,MAAM,MAAM,GAAG,gBAAM,CAAC,KAAK,CAAC,QAAQ,CAAC;QACjC,KAAK,EAAC;YACF,MAAM,EAAE,SAAS;SACpB;KACJ,CAAC,CAAA;IACF,OAAO,EAAC,MAAM,EAAC,CAAA;AACnB,CAAC"}
