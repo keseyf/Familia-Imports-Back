@@ -1,1 +1,1 @@
-{"version":3,"file":"vercel-handler.d.ts","sourceRoot":"","sources":["../src/vercel-handler.ts"],"names":[],"mappings":"AAEA,wBAA8B,OAAO,CAAC,GAAG,EAAC,GAAG,EAAE,GAAG,EAAC,GAAG,iBAGrD"}
+{"version":3,"file":"vercel-handler.d.ts","sourceRoot":"","sources":["../src/vercel-handler.ts"],"names":[],"mappings":"AACA,OAAO,UAAU,MAAM,iBAAiB,CAAC;;AAGzC,wBAAsC"}

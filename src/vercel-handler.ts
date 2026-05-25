@@ -1,6 +1,5 @@
 import app from "./utils/app";
+import serverless from "serverless-http";
 
-export default async function handler(req:any, res:any) {
-  await app.ready();           // garante que o Fastify esteja pronto
-  app.server.emit("request", req, res);
-}
+// Converte o Fastify pra um handler serverless
+export default serverless(app as any);

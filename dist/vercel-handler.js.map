@@ -1,1 +1,1 @@
-{"version":3,"file":"vercel-handler.js","sourceRoot":"","sources":["../src/vercel-handler.ts"],"names":[],"mappings":";;;;;AAEA,0BAGC;AALD,sDAA8B;AAEf,KAAK,UAAU,OAAO,CAAC,GAAO,EAAE,GAAO;IACpD,MAAM,aAAG,CAAC,KAAK,EAAE,CAAC,CAAW,sCAAsC;IACnE,aAAG,CAAC,MAAM,CAAC,IAAI,CAAC,SAAS,EAAE,GAAG,EAAE,GAAG,CAAC,CAAC;AACvC,CAAC"}
+{"version":3,"file":"vercel-handler.js","sourceRoot":"","sources":["../src/vercel-handler.ts"],"names":[],"mappings":";;;;;AAAA,sDAA8B;AAC9B,sEAAyC;AAEzC,+CAA+C;AAC/C,kBAAe,IAAA,yBAAU,EAAC,aAAU,CAAC,CAAC"}
