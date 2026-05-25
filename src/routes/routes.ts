@@ -5,6 +5,10 @@ import getProducts from "./gets/getProducts";
 // Get Routes
 export async function getRoutes(app: FastifyInstance){
 
+app.get("/", async (req: FastifyRequest, res: FastifyReply)=>{
+    res.status(200).send({message: "Hello World!"})
+})
+
 app.get("/products", async (req: FastifyRequest, res: FastifyReply)=>{
     const response = await getProducts()
     if(!response.products || (await response.products).length === 0) return res.status(404).send({message: "Nenhum produto encontrado."})

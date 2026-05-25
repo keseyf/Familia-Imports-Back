@@ -9,6 +9,9 @@ const createProduct_1 = __importDefault(require("./post/createProduct"));
 const getProducts_1 = __importDefault(require("./gets/getProducts"));
 // Get Routes
 async function getRoutes(app) {
+    app.get("/", async (req, res) => {
+        res.status(200).send({ message: "Hello World!" });
+    });
     app.get("/products", async (req, res) => {
         const response = await (0, getProducts_1.default)();
         if (!response.products || (await response.products).length === 0)
